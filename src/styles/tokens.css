@@ -1,0 +1,27 @@
+:root {
+  --bg-0: #070d14;
+  --bg-1: #0c1620;
+  --bg-2: #122131;
+  --bg-3: #182c3f;
+  --line: #233b50;
+  --line-soft: rgba(120, 170, 200, 0.14);
+  --text: #d7e6f0;
+  --text-dim: #8ba6b8;
+  --text-faint: #5d7c91;
+  --accent: #38d0c4;
+  --accent-dim: rgba(56, 208, 196, 0.14);
+  --info: #4ea8de;
+  --warning: #f2b544;
+  --critical: #ff5d5d;
+  --friendly: #4ad991;
+  --neutral: #7fb0c8;
+  --suspect: #f2b544;
+  --unknown: #b18cf0;
+  --hostile: #ff5d5d;
+  --sea: #0a1b2a;
+  --land: #16303a;
+  --radius: 6px;
+  --radius-lg: 10px;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  --sans: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
